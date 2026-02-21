@@ -1,4 +1,5 @@
 money = 1000
+# 辞書は{キー1: 値1, キー2: 値2, …}
 prices = {'apple': 100, 'banana': 200, 'orange': 400}
 stocks = {'apple': 3, 'banana': 5, 'orange': 2}
 for item in prices:

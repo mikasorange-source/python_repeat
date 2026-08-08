@@ -1,4 +1,4 @@
-# python_repeat
+# python_2_repeat
 
 ProgateでPython繰り返し編まで学んだ内容を応用して、プログラムを2つ作成しました。
 学習記録リポジトリです。  
